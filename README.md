@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, This is Adarsh </h1>
 <h3 align="center">A competitive programmer and software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=menacingsoul&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=menacingsoul" alt="menacingsoul" /></a> </p>
 

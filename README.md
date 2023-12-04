@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently doing **CP**
 
-- 📫 How to reach me **Email me: adarsh14304@gmail.com**
+- 📫 How to reach me **Email me: contact.adarshkr@gmail.com**
 
 - ⚡ Fun fact **I like to sleep**
 
